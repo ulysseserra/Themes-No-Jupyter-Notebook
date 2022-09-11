@@ -1,5 +1,18 @@
-# Themes-No-Jupyter-Notebook
-Install Themes Jupyter Notebook
+# Themes No Jupyter Notebook
+
+Rápida descrição do objetivo de fazer esse projeto
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Themes No Jupyter Notebook*
+| :label: Tecnologias | jupyter, python (tecnologias utilizadas)
+| :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://url-do-desafio.com.br
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://assets.website-files.com/6141c89a3874c3702674a1c0/625012c9c0dbf1887c4bf7c7_623d8b3bd384c356fff4d0c8_memgraph-jupyter-notebook-cover.png#vitrinedev)
+
+## Detalhes do projeto
 
 Instalando o pacote JupyterThemes
 Dentro do jupyter notebook precisaremos instalar o pacote “jupytherthemes”, utilize o seguinte comando:
